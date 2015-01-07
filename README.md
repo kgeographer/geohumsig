@@ -1,0 +1,4 @@
+geohumsig
+=========
+
+Geohumanities SIG
