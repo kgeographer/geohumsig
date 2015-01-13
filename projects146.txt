@@ -1,5 +1,5 @@
 "name","description","url"
-"Addressing History","Scottish Post Office directories and contemporary maps. The execution of this project is excellent.","http://addressinghistory.edina.ac.uk/""
+"Addressing History","Scottish Post Office directories and contemporary maps. The execution of this project is excellent.","http://addressinghistory.edina.ac.uk/"
 "AfricaMap","Part of the Harvard World Map project.","http://africamap.harvard.edu/"
 "Animated Atlas of African History","Flash-based map of Africa, available on the web as downloadable executables for Mac and Windows.","http://www.brown.edu/Research/AAAH/index.htm"
 "Atlantic Networks Project","Maps and data relating to trans-atlantic shipping, including the slave trade.","https://sites.google.com/site/atlanticnetworksproject/"
